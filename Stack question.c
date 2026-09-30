@@ -1,5 +1,5 @@
 
-// traverse and display the stack contents
+// traverse and display of the stack contents
 #include <stdio.h>
 #define MAX 6
 
